@@ -1,0 +1,14 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+.link {
+    font-size: 20px;
+    background: white;
+    border-radius: 10px;
+    width: 150px;
+    margin-top: 15px;
+}
+#b{
+    font-size: 50px;
+}
